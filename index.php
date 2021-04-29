@@ -1,7 +1,21 @@
 <?php
 
-include("index.html")
-include("article.html")
-include("about.html")
+include_once("index.html")
+
 
 ?>
+
+<?php
+
+include("article.html")
+
+
+?>
+<?php
+
+include("about.html")
+
+
+?>
+
+
